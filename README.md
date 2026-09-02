@@ -1,4 +1,4 @@
-# Data-Analysis-Dashboard
+
 
 #  Urban Micro-Mobility: Customer Demographics & Purchase Behaviour Analysis
 
@@ -45,11 +45,12 @@ The data proves that this bicycle line does not function as a broad lifestyle or
 
 ### Strategic Roadmap for Stakeholders:
 
-
-
-
-I acted as a Data Analyst to solve a real business problem for a bike retailer. Using Excel, I cleaned messy raw data, segmented customers by age and income, and built interactive dashboards. My final analysis gives stakeholders clear, data-driven insights to optimize their marketing budget, target high-value buyers, and increase sales.
 1.  **Hyper-Local Targeting:** Reallocate 75% of the digital ad budget away from broad regional marketing and hyper-focus on zip codes within a 1-mile radius of major business districts or transit hubs.
 2.  **Demographic Focus:** Tailor creative marketing campaigns specifically toward the "Middle Age" corporate workforce, emphasizing zero-emission short commutes.
-3.  **Pricing Policy:** Because buyers cross a higher income threshold, marketing should lean into premium product features rather than aggressive discount structures.
+3.  **Pricing Policy:** Because buyers cross a higher income threshold, marketing should lean into premium product features rather than aggressive discount
+  
+  
+  
+
+8.  structures.
 
